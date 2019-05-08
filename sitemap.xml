@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://marcus-stockholm.github.io/about/</loc>
+    <lastmod>2019-05-07T18:17:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://marcus-stockholm.github.io/</loc>
+    <lastmod>2019-05-07T18:17:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   

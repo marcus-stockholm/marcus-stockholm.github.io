@@ -6,9 +6,25 @@
     <description>Recent content on Game programmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 07 May 2019 18:17:15 +0200</lastBuildDate>
     
 	<atom:link href="https://marcus-stockholm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://marcus-stockholm.github.io/about/</link>
+      <pubDate>Tue, 07 May 2019 18:17:15 +0200</pubDate>
+      
+      <guid>https://marcus-stockholm.github.io/about/</guid>
+      <description>First name: Marcus
+Last name: Jungell
+Location: Stockholm, Sweden
+Languages:
+ English
+ Swedish (mother tongue)
+  </description>
+    </item>
     
   </channel>
 </rss>
