@@ -6,10 +6,38 @@
     <description>Recent content on Game programmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 May 2019 20:36:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 19:46:41 +0200</lastBuildDate>
     
 	<atom:link href="https://marcus-stockholm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Services</title>
+      <link>https://marcus-stockholm.github.io/services/</link>
+      <pubDate>Thu, 09 May 2019 19:46:41 +0200</pubDate>
+      
+      <guid>https://marcus-stockholm.github.io/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://marcus-stockholm.github.io/post/welcome/</link>
+      <pubDate>Thu, 09 May 2019 19:02:49 +0200</pubDate>
+      
+      <guid>https://marcus-stockholm.github.io/post/welcome/</guid>
+      <description>Welcome to my website and blog.
+I am a computer programmer based in Stockholm Sweden. I am going to provide services for game programming, especially mathematical applications. However I am not yet available to hire but will be soon.</description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>https://marcus-stockholm.github.io/legal/</link>
+      <pubDate>Thu, 09 May 2019 18:56:26 +0200</pubDate>
+      
+      <guid>https://marcus-stockholm.github.io/legal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contact</title>
