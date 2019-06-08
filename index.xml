@@ -5,10 +5,19 @@
     <link>https://marcus-stockholm.github.io/</link>
     <description>Recent content on Game Programmer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Jun 2019 20:07:30 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 20:46:09 +0200</lastBuildDate>
     
 	<atom:link href="https://marcus-stockholm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Payment</title>
+      <link>https://marcus-stockholm.github.io/payment/</link>
+      <pubDate>Sat, 08 Jun 2019 20:46:09 +0200</pubDate>
+      
+      <guid>https://marcus-stockholm.github.io/payment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cookies Policy</title>
