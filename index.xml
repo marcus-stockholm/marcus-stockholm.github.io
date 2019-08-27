@@ -5,10 +5,22 @@
     <link>https://marcus-stockholm.github.io/</link>
     <description>Recent content on Game Programmer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jun 2019 20:46:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 20:54:26 +0200</lastBuildDate>
     
 	<atom:link href="https://marcus-stockholm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://marcus-stockholm.github.io/post/welcome/</link>
+      <pubDate>Tue, 27 Aug 2019 20:54:26 +0200</pubDate>
+      
+      <guid>https://marcus-stockholm.github.io/post/welcome/</guid>
+      <description>Welcome to my website and blog.
+I am a computer game programmer based in Stockholm Sweden. I am going to provide services for game programming, especially mathematical applications.
+However I am not yet available for hire but will be in the future. In autumn of 2019, I am going to develop this website, add content and prepare the site for business use.
+My code will be hosted on my Github. This website will be used for presentation of programming projects and as a business website.</description>
+    </item>
     
     <item>
       <title>Payment</title>
@@ -37,18 +49,6 @@ This document is the cookies policy of the website accessible at https://marcus-
       <guid>https://marcus-stockholm.github.io/privacy-policy/</guid>
       <description>This policy was updated and became effective as of 8 June 2019.
 This document is the privacy policy of the website accessible at https://marcus-stockholm.github.io/ , “The Site&amp;rdquo;. This policy discloses the collection and processing of &amp;ldquo;Personal Data&amp;rdquo; i.e. information that can be used to identify a natural person, when a person &amp;ldquo;You&amp;rdquo; visits The Site or as part of business to business communication. You should read this policy to understand what Personal Data We collect about You, why, when, how We collect Personal Data, how the Personal Data is used, shared, stored and transmitted and what Your data protection rights are.</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://marcus-stockholm.github.io/post/welcome/</link>
-      <pubDate>Sun, 19 May 2019 22:19:27 +0200</pubDate>
-      
-      <guid>https://marcus-stockholm.github.io/post/welcome/</guid>
-      <description>Welcome to my website and blog.
-I am a computer game programmer based in Stockholm Sweden. I am going to provide services for game programming, especially mathematical applications.
-However I am not yet available for hire but will be soon, earliest in autumn of 2019.
-I am also going to develop this website, add content and prepare the site for business use.</description>
     </item>
     
     <item>
